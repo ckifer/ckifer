@@ -7,3 +7,5 @@
 - 🌱  &nbsp;I’m currently learning anything and everything I can
 - 💬  &nbsp;Ask me about JavaScript, React, Typescript, frontend development, fullstack development, C#, .NET, PHP, Symfony, Python
 - 📫  &nbsp;How to reach me: email or my website
+
+- GH Actions are awesome :o
