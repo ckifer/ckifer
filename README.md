@@ -8,5 +8,4 @@
 - 💬  &nbsp;Ask me about JavaScript, React, Typescript, node, frontend development, fullstack development, C#, .NET, PHP, Symfony, Python, Java, etc
 - 📫  &nbsp;How to reach me: email or my website
 - [Recharts](https://github.com/recharts/recharts) maintainer/contributor
-- [AWS Cloudwatch RUM](https://github.com/aws-observability/aws-rum-web) is so cool 
-- GH Actions are awesome :o
+- [AWS Cloudwatch RUM](https://github.com/aws-observability/aws-rum-web) is cool 
